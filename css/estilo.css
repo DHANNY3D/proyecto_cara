@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#general{
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    background-image: linear-gradient(#fff75a ,#fca253);
+    border-radius: 100%;
+}
+
+#caja1{
+    margin: auto;
+    margin-top: 120px;
+    margin-left: 130px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color:  rgb(35, 4, 60);
+    border-radius: 100%;
+}
+
+#caja2{
+    margin: auto;
+    margin-top: 120px;
+    margin-right: 130px;
+    float: right;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(35, 4, 60);
+    border-radius: 100%;
+}
+
+#caja4{
+    margin: auto;
+    margin-top: 20px;
+    width: 560px;
+    height: 150px;
+    background-color: #fff75a00;
+    border-radius: 100%;
+}
+
+#caja3{
+    margin: auto;
+    margin-top: -15px;
+    margin-left: 225px;
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(201, 9, 9);
+    border-radius: 100%;
+}
+
+#caja4enuno{
+    margin: auto;
+    margin-top: 410px;
+    width: 350px;
+    height: 75px;
+    background-color: rgb(255, 55, 0);
+    border-radius: 100%;
+}
+
+#boca{
+    margin-left: 75px;
+    margin-top: 0px; 
+    width: 200px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+#bocaori{
+
+    margin: auto;
+    margin-top: 410px;
+    width: 350px;
+    height: 75px;
+    background-color: rgb(255, 55, 0);
+    border-radius: 100%;
+}
+
+#labio{
+    margin-left: 75px;
+    margin-top: 0px; 
+    width: 200px;
+    height: 10px;
+    border-bottom: 20px solid;
+    border-radius: 100%;
+}
